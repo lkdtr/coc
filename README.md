@@ -41,8 +41,11 @@ Bunların haricinde üçüncü kişilerin kişisel bilgilerini veya kimliğini i
 **Düşünceli olun.** Etkinliğin planlanan bir akışı olduğunu düşünerek, sorduğunuz soruları belirtilen süreler dahilinde makul bir vakit alacak şekilde sorun. Eğer soramadığınız bir sorunuz olursa, e-posta ve benzeri kanallardan iletebilirsiniz. Etkinlik konuşmacıları ve yürütücüleri, sorularınızı memnuniyetle cevaplayacaklardır.
 
 
-Eğer herhangi bir sebepten istenmeyen kişi ilan edildiyseniz ve bu durumdan memnun değilseniz, özeleştirinizi verebilirsiniz. Verdiğiniz özeleştiri, dernekçe değerlendirilecek ve nihai karar size ulaştırılacaktır. İstenmeyen kişilerle ilgili soru, öneri ve temyiz mercii Linux Kullanıcıları Derneği Yönetim Kurulu, bu metnin başka topluluklarca benimsenmesi durumunda ise ilgili Yönetim Kuruludur.
+Eğer herhangi bir sebepten istenmeyen kişi ilan edildiyseniz ve bu durumdan memnun değilseniz, özeleştirinizi verebilirsiniz. Verdiğiniz özeleştiri, dernekçe değerlendirilecek ve nihai karar size ulaştırılacaktır. İstenmeyen kişilerle ilgili soru, öneri ve temyiz mercii Linux Kullanıcıları Derneği Yönetim Kuruludur.
 
 Her nevi durumda Linux Kullanıcıları Derneği tüzüğü, yönetmelikleri, yönergeleri ve diğer metin hükümleri geçerlidir.
 
-**Not**: [Özgür Yazılım Derneği Raconu (CoC)](https://www.oyd.org.tr/racon/) belgesisi üzerinde değişiklik yapilarak kullanıma sunulmuştur.
+---
+**Not**: [Özgür Yazılım Derneği Raconu (CoC)](https://www.oyd.org.tr/racon/) belgesisi üzerinde değişiklik yapilarak kullanıma sunulmuştur.  
+(c) 2023 Özgür Yazılım Derneği  
+Bu eser <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"> Creative Commons Atıf-AynıLisanslaPaylaş 4.0 Uluslararası Lisansı</a> ile lisanslanmıştır.
