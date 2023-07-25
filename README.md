@@ -1,8 +1,8 @@
-# Özgür Yazılım Derneği Raconu (CoC)
+# Linux Kullanıcıları Derneği Raconu (CoC)
 
 _(**racon** İta. ragione: kaide, usul, akıl selim, mantık, uyulması gereken kurallar bütünü)_
 
-Bu yönerge Özgür Yazılım Derneği'nin; çevrimiçi de dahil olmak üzere kurduğu, paydaşı olduğu etkinlikler ve topluluklar kapsamında herkese güvenli ve huzurlu bir etkileşim alanı sunmak için oluşturulmuştur. ÖYD'nin etki alanının sürdüğü süre boyunca bu yönerge geçerlidir. Bu yönergeyi benimsemek adına yapılan atıflarda, atıfı yapan taraf yönergenin uygulayanı sayılır.
+Bu yönerge Linux Kullanıcıları Derneği'nin; çevrimiçi de dahil olmak üzere kurduğu, paydaşı olduğu etkinlikler ve topluluklar kapsamında herkese güvenli ve huzurlu bir etkileşim alanı sunmak için oluşturulmuştur. LKD'nin etki alanının sürdüğü süre boyunca bu yönerge geçerlidir.
 
 **Yürütücüler**, ilgili alanlarda dernek tarafından yetkilendirilmiş kişileri, etkinlik komitelerini, çevrimiçi iletişim alanlarında ilgili kanaldan sorumlu kişileri, diğer tüm istisnai hallerde dernek yönetim kurulunu ifade eder.
 
@@ -41,7 +41,8 @@ Bunların haricinde üçüncü kişilerin kişisel bilgilerini veya kimliğini i
 **Düşünceli olun.** Etkinliğin planlanan bir akışı olduğunu düşünerek, sorduğunuz soruları belirtilen süreler dahilinde makul bir vakit alacak şekilde sorun. Eğer soramadığınız bir sorunuz olursa, e-posta ve benzeri kanallardan iletebilirsiniz. Etkinlik konuşmacıları ve yürütücüleri, sorularınızı memnuniyetle cevaplayacaklardır.
 
 
-Eğer herhangi bir sebepten istenmeyen kişi ilan edildiyseniz ve bu durumdan memnun değilseniz, özeleştirinizi verebilirsiniz. Verdiğiniz özeleştiri, dernekçe değerlendirilecek ve nihai karar size ulaştırılacaktır. İstenmeyen kişilerle ilgili soru, öneri ve temyiz mercii Özgür Yazılım Derneği Yönetim Kurulu, bu metnin başka topluluklarca benimsenmesi durumunda ise ilgili topluluğun yürütücüleridir. 
+Eğer herhangi bir sebepten istenmeyen kişi ilan edildiyseniz ve bu durumdan memnun değilseniz, özeleştirinizi verebilirsiniz. Verdiğiniz özeleştiri, dernekçe değerlendirilecek ve nihai karar size ulaştırılacaktır. İstenmeyen kişilerle ilgili soru, öneri ve temyiz mercii Linux Kullanıcıları Derneği Yönetim Kurulu, bu metnin başka topluluklarca benimsenmesi durumunda ise ilgili Yönetim Kuruludur.
 
-Bu yönergede belirtilmeyen her nevi durumda, konsensüs kararları, protokol ve tüzük hükümleri; ya da ilgili toplulukların yönergeleri geçerlidir.
+Her nevi durumda Linux Kullanıcıları Derneği tüzüğü, yönetmelikleri, yönergeleri ve diğer metin hükümleri geçerlidir.
 
+**Not**: [Özgür Yazılım Derneği Raconu (CoC)](https://www.oyd.org.tr/racon/) belgesisi üzerinde değişiklik yapilarak kullanıma sunulmuştur.
