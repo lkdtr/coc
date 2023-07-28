@@ -46,6 +46,6 @@ Eğer herhangi bir sebepten istenmeyen kişi ilan edildiyseniz ve bu durumdan me
 Her nevi durumda Linux Kullanıcıları Derneği tüzüğü, yönetmelikleri, yönergeleri ve diğer metin hükümleri geçerlidir.
 
 ---
-**Not**: [Özgür Yazılım Derneği Raconu (CoC)](https://www.oyd.org.tr/racon/) belgesisi üzerinde değişiklik yapilarak kullanıma sunulmuştur.  
+**Not**: [Özgür Yazılım Derneği Raconu (CoC)](https://www.oyd.org.tr/racon/) belgesi üzerinde değişiklik yapılarak kullanıma sunulmuştur.  
 (c) 2023 Özgür Yazılım Derneği  
 Bu eser <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"> Creative Commons Atıf-AynıLisanslaPaylaş 4.0 Uluslararası Lisansı</a> ile lisanslanmıştır.
