@@ -1,6 +1,4 @@
-# Linux Kullanıcıları Derneği Raconu (CoC)
-
-_(**racon** İta. ragione: kaide, usul, akıl selim, mantık, uyulması gereken kurallar bütünü)_
+# Linux Kullanıcıları Derneği Davranış Yönergesi (CoC)
 
 Bu yönerge Linux Kullanıcıları Derneği'nin; çevrimiçi de dahil olmak üzere kurduğu, paydaşı olduğu etkinlikler ve topluluklar kapsamında herkese güvenli ve huzurlu bir etkileşim alanı sunmak için oluşturulmuştur. LKD'nin etki alanının sürdüğü süre boyunca bu yönerge geçerlidir.
 
