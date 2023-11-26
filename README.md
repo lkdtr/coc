@@ -1,4 +1,4 @@
-# Linux Kullanıcıları Derneği Davranış Yönergesi (CoC)
+# Linux Kullanıcıları Derneği Davranış Yönergesi Tasalağı (CoC)
 
 Bu yönerge Linux Kullanıcıları Derneği'nin; çevrimiçi de dahil olmak üzere kurduğu, paydaşı olduğu etkinlikler ve topluluklar kapsamında herkese güvenli ve huzurlu bir etkileşim alanı sunmak için oluşturulmuştur. LKD'nin etki alanının sürdüğü süre boyunca bu yönerge geçerlidir.
 
