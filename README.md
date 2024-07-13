@@ -36,7 +36,7 @@ Bu Davranış Kuralları tüm topluluk alanlarında geçerlidir ve ayrıca bir k
 
 ### Uygulama
 
-Zorbalık, taciz edici veya başka bir şekilde kabul edilemez davranış örnekleri `bilgi@lkd.org.tr` e-posta adresi üzerinden uygulamadan sorumlu Linux Kullanıcıları Derneği Yönetim Kurulu'na bildirilebilir. Tüm şikayetler derhal ve adil bir şekilde incelenecek ve araştırılacaktır.
+Zorbalık, taciz edici veya başka bir şekilde kabul edilemez davranış örnekleri `yk@lkd.org.tr` e-posta adresi üzerinden uygulamadan sorumlu Linux Kullanıcıları Derneği Yönetim Kurulu'na bildirilebilir. Tüm şikayetler derhal ve adil bir şekilde incelenecek ve araştırılacaktır.
 
 Linux Kullanıcıları Derneği Yönetim Kurulu, herhangi bir olayın şikayetçisinin gizliliğine ve güvenliğine saygı göstermekle yükümlüdür.
 
